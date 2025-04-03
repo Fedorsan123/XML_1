@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE timeTable SYSTEM "timetable.dtd">
+<!DOCTYPE timeTable PUBLIC "https://github.com/Fedorsan123/XML_1/blob/main/index.dtd">
 <timeTable>
     <complexes>
         <complex code="C1">
